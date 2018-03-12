@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-konekoya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joshua Lin (http://konekoya.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint-config-prettier": "2.7.0",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-prettier": "2.1.2",
+    "eslint-plugin-react": "7.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3"
+  }
+}
