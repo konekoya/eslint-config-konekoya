@@ -1,5 +1,7 @@
 # eslint-config-konekoya
 
+ESLint config for my personal project.
+
 ## Install
 
 ```sh
@@ -14,7 +16,7 @@ In your `.eslintrc`, add the extends like this:
 {
   "extends": "konekoya",
   "rules": {
-    // your overrides
+    // your overrides here
   }
 }
 ```
