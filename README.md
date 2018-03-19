@@ -1,6 +1,6 @@
 # eslint-config-konekoya
 
-ESLint config for my personal project.
+ESLint config for my personal projects.
 
 ## Install
 
