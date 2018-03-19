@@ -10,7 +10,7 @@ yarn add eslint-config-konekoya --dev
 
 In your `.eslintrc`, add the extends like this:
 
-```json
+```js
 {
   "extends": "konekoya",
   "rules": {

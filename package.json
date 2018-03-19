@@ -4,6 +4,11 @@
   "main": "index.js",
   "author": "Joshua Lin (http://konekoya.github.io)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konekoya/eslint-config-konekoya.git"
+  },
+  "keywords": ["eslint", "eslintconfig", "config", "konekoya", "javascript"],
   "dependencies": {
     "babel-eslint": "7.2.3",
     "eslint-config-prettier": "2.7.0",
