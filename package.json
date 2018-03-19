@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-konekoya",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Joshua Lin (http://konekoya.github.io)",
   "license": "MIT",
@@ -8,7 +8,13 @@
     "type": "git",
     "url": "https://github.com/konekoya/eslint-config-konekoya.git"
   },
-  "keywords": ["eslint", "eslintconfig", "config", "konekoya", "javascript"],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "konekoya",
+    "javascript"
+  ],
   "dependencies": {
     "babel-eslint": "7.2.3",
     "eslint-config-prettier": "2.7.0",
