@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-konekoya",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "author": "Joshua Lin (http://konekoya.github.io)",
   "license": "MIT",
